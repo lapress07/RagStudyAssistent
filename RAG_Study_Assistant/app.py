@@ -4,7 +4,7 @@ import chromadb
 import ollama
 import hashlib
 import uuid
-
+#rag assistant
 st.set_page_config(page_title="RAG Study Assistant", page_icon="📚", layout="wide")
 st.title("📚 RAG Study Assistant")
 st.caption("Upload PDF notes an" \
